@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{3D3D15A0
 		abolfazl.txt = abolfazl.txt
 		Hiden.txt = Hiden.txt
 		TextFile1.txt = TextFile1.txt
+		TextFile2.txt = TextFile2.txt
+		TextFile3.txt = TextFile3.txt
 	EndProjectSection
 EndProject
 Global
