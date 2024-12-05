@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{3D3D15A0-37C4-4AC8-A1DC-ED2F70184E82}"
 	ProjectSection(SolutionItems) = preProject
@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{3D3D15A0
 		TextFile1.txt = TextFile1.txt
 		TextFile2.txt = TextFile2.txt
 		TextFile3.txt = TextFile3.txt
+		TextFile4.txt = TextFile4.txt
 	EndProjectSection
 EndProject
 Global
