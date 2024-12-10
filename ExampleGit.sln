@@ -13,7 +13,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Work", "Work", "{1A5B8AFE-AC86-437E-8033-6264BE102AF0}"
 	ProjectSection(SolutionItems) = preProject
 		ShopWork.txt = ShopWork.txt
-		sleep.txt = sleep.txt
 	EndProjectSection
 EndProject
 Global
