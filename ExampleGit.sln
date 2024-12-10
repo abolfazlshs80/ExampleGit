@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{3D3D15A0
 	ProjectSection(SolutionItems) = preProject
 		abolfazl.txt = abolfazl.txt
 		Hiden.txt = Hiden.txt
+		test111.txt = test111.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Work", "Work", "{1A5B8AFE-AC86-437E-8033-6264BE102AF0}"
