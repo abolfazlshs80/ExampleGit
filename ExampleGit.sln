@@ -1,12 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{3D3D15A0-37C4-4AC8-A1DC-ED2F70184E82}"
 	ProjectSection(SolutionItems) = preProject
 		abolfazl.txt = abolfazl.txt
 		Hiden.txt = Hiden.txt
+		test111.txt = test111.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Work", "Work", "{1A5B8AFE-AC86-437E-8033-6264BE102AF0}"
